@@ -1,0 +1,20 @@
+# Core ML & Numerical Computing
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep Learning (uncomment as needed)
+# torch
+# torchvision
+# torchaudio
+# tensorflow
+
+# Jupyter & Tools
+jupyter
+ipykernel
+tqdm
